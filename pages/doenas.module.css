@@ -1,0 +1,243 @@
+.doenasChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.prezadoUsurio {
+  display: block;
+  font-size: var(--font-size-xl);
+}
+.blankLine {
+  display: block;
+}
+.noIgnoreSinaisMesmoQueO {
+  margin-bottom: 0;
+}
+.sintomasAlarmantesSeVocE {
+  margin: 0;
+  font-family: inherit;
+  padding-left: var(--padding-2xl);
+}
+.prezadoUsurioAoContainer {
+  margin: 0;
+  position: absolute;
+  top: 136px;
+  left: 38px;
+  display: inline-block;
+  width: 352px;
+  height: 664px;
+}
+.emCasosDeAcidentesGraves {
+  margin: 0;
+  font-size: inherit;
+  padding-left: var(--padding-2xl);
+}
+.transmisade {
+  display: block;
+  font-family: var(--font-kaisei-decol);
+}
+.seVocOuContainer,
+.transmisade1 {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.seVocOuContainer {
+  top: 1255px;
+  left: 38px;
+  width: 352px;
+  height: 678px;
+}
+.transmisade1 {
+  top: 72px;
+  left: calc(50% - 120px);
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: var(--font-kaisei-decol);
+  text-align: center;
+  width: 252px;
+  height: 64px;
+}
+.doenasChild1,
+.doenasChild2,
+.doenasInner,
+.doenasItem,
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 866px;
+  left: calc(50% - 176px);
+  width: 143px;
+  height: 90px;
+}
+.doenasChild1,
+.doenasChild2,
+.doenasInner,
+.rectangleButton {
+  top: 1088px;
+  left: calc(50% + 33px);
+}
+.doenasChild1,
+.doenasChild2,
+.rectangleButton {
+  left: calc(50% - 176px);
+}
+.doenasChild1,
+.doenasChild2 {
+  top: 977px;
+}
+.doenasChild2 {
+  top: 866px;
+  left: calc(50% + 33px);
+}
+.aids1 {
+  margin: 0;
+}
+.aids,
+.tuberculose {
+  position: absolute;
+  top: 901px;
+  text-align: center;
+  display: inline-block;
+}
+.aids {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: calc(50% - 123px);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  width: 36px;
+  height: 23px;
+}
+.tuberculose {
+  left: calc(50% + 57px);
+  width: 95px;
+  height: 19px;
+}
+.hepatite,
+.malria,
+.tuberculose {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+}
+.malria {
+  position: absolute;
+  top: 1015px;
+  left: calc(50% - 134px);
+  text-align: center;
+  display: inline-block;
+}
+.hepatite {
+  top: 1124px;
+  left: calc(50% - 144px);
+  width: 75px;
+  height: 19px;
+}
+.doenas1,
+.doenasTransmitidasPela,
+.hepatite {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.doenasTransmitidasPela {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1104px;
+  left: calc(50% + 57px);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  width: 102px;
+  height: 56px;
+}
+.doenas1 {
+  margin: 0;
+  top: 817px;
+  left: calc(50% - 96px);
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 193px;
+  height: 32px;
+}
+.doenasChild3 {
+  background-color: var(--color-black);
+  top: 977px;
+  left: calc(50% + 33px);
+  width: 143px;
+  height: 90px;
+}
+.doenasChild3,
+.doenasChild4,
+.doenasTropicaisNegligenciad {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.doenasTropicaisNegligenciad {
+  background-color: transparent;
+  top: 992px;
+  left: calc(50% + 44px);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+  display: inline-block;
+  width: 127px;
+  height: 63px;
+}
+.doenasChild4 {
+  background-color: var(--color-black);
+  top: 1978px;
+  left: 38px;
+  width: 120px;
+  height: 35px;
+}
+.doenas,
+.sobreNs {
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.sobreNs {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1986px;
+  left: 47px;
+  color: var(--color-salmon);
+  text-align: center;
+  display: inline-block;
+  width: 102px;
+  height: 25px;
+}
+.doenas {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2152px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--color-black);
+}

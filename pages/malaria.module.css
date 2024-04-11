@@ -1,0 +1,154 @@
+.malariaChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0.23%;
+  bottom: 0;
+  left: -0.23%;
+  background-color: var(--color-salmon);
+}
+.oTratamentoDa {
+  display: block;
+}
+.oTratamentoDaContainer,
+.tratamento {
+  margin: 0;
+  position: absolute;
+  top: 668px;
+  left: calc(50% - 185px);
+  display: inline-block;
+  width: 381px;
+  height: 147px;
+}
+.tratamento {
+  top: 625px;
+  left: calc(50% - 107px);
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 24px;
+}
+.malria1 {
+  margin: 0;
+}
+.causas,
+.malria,
+.mtodosDeTransmisso,
+.sintomas {
+  margin: 0;
+  position: absolute;
+  top: 53px;
+  left: calc(50% - 125px);
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 255px;
+  height: 57px;
+}
+.causas,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 127px;
+  left: calc(50% - 66px);
+  font-size: var(--font-size-5xl);
+  width: 131px;
+  height: 32px;
+}
+.mtodosDeTransmisso,
+.sintomas {
+  top: 243px;
+}
+.mtodosDeTransmisso {
+  top: 355px;
+  left: calc(50% - 158px);
+  width: 319px;
+  height: 30px;
+}
+.malariaItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 53px;
+  left: 29px;
+  width: 42px;
+  height: 36px;
+}
+.aMalria,
+.button {
+  position: absolute;
+  display: inline-block;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 63px;
+  left: 40px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+  width: 21px;
+  height: 16px;
+}
+.aMalria {
+  margin: 0;
+  top: 170px;
+  height: 62px;
+}
+.aMalria,
+.aMalria1,
+.osSintomasIncluem {
+  left: calc(50% - 188px);
+  width: 375px;
+}
+.osSintomasIncluem {
+  margin: 0;
+  position: absolute;
+  top: 285px;
+  display: inline-block;
+  height: 59px;
+}
+.aMalria1 {
+  top: 404px;
+  height: 45px;
+}
+.aMalria1,
+.medidasPreventivas,
+.usoDeRepelentes {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.medidasPreventivas {
+  top: 460px;
+  left: calc(50% - 120px);
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 239px;
+  height: 42px;
+}
+.usoDeRepelentes {
+  top: 506px;
+  left: calc(50% - 188px);
+  width: 375px;
+  height: 83px;
+}
+.malaria {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 951px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

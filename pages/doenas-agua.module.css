@@ -1,0 +1,265 @@
+.doenasAguaChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.causas,
+.clera,
+.medidasPreventivas,
+.mtodosDeTransmisso,
+.sintomas {
+  margin: 0;
+  position: absolute;
+  top: 562px;
+  left: calc(50% - 112px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 239px;
+  height: 42px;
+}
+.causas,
+.clera,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 224px;
+  left: calc(50% - 65px);
+  width: 131px;
+  height: 32px;
+}
+.clera,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 342px;
+  left: calc(50% - 66px);
+}
+.clera,
+.mtodosDeTransmisso {
+  top: 460px;
+  left: calc(50% - 158px);
+  width: 319px;
+  height: 30px;
+}
+.clera {
+  top: 176px;
+  left: calc(50% - 112px);
+  width: 226px;
+  height: 38px;
+}
+.causadaPelaBactria,
+.diarreiaAquosaGrave {
+  left: calc(50% - 186px);
+  font-size: var(--font-size-base);
+  width: 375px;
+}
+.causadaPelaBactria {
+  margin: 0;
+  position: absolute;
+  top: 263px;
+  display: inline-block;
+  height: 62px;
+}
+.diarreiaAquosaGrave {
+  top: 381px;
+  height: 51px;
+}
+.diarreiaAquosaGrave,
+.ingestoDeGua,
+.tratamento {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.ingestoDeGua {
+  top: 507px;
+  left: calc(50% - 180px);
+  font-size: var(--font-size-base);
+  width: 369px;
+  height: 45px;
+}
+.tratamento {
+  top: 703px;
+  left: calc(50% - 102px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 43px;
+}
+.fornecimentoDeGua,
+.reposioDeLquidos {
+  margin: 0;
+  position: absolute;
+  top: 745px;
+  left: calc(50% - 176px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 367px;
+  height: 84px;
+}
+.fornecimentoDeGua {
+  top: 611px;
+  left: calc(50% - 184px);
+  width: 375px;
+  height: 85px;
+}
+.doenasTransmitidasPela {
+  margin: 0;
+}
+.doenasTransmitidasPelaContainer {
+  margin: 0;
+  position: absolute;
+  top: 22px;
+  left: calc(50% - 139px);
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 300px;
+  height: 116px;
+}
+.button,
+.doenasAguaItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.doenasAguaItem {
+  background-color: var(--color-black);
+  top: 22px;
+  left: 17px;
+  width: 42px;
+  height: 36px;
+}
+.button {
+  background-color: transparent;
+  top: 32px;
+  left: 27px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+  display: inline-block;
+  width: 21px;
+  height: 16px;
+}
+.causas1,
+.febreTifide,
+.medidasPreventivas1,
+.mtodosDeTransmisso1,
+.sintomas1 {
+  margin: 0;
+  position: absolute;
+  top: 1283px;
+  left: calc(50% - 107px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 239px;
+  height: 42px;
+}
+.causas1,
+.febreTifide,
+.mtodosDeTransmisso1,
+.sintomas1 {
+  top: 945px;
+  left: calc(50% - 60px);
+  width: 131px;
+  height: 32px;
+}
+.febreTifide,
+.mtodosDeTransmisso1,
+.sintomas1 {
+  top: 1063px;
+  left: calc(50% - 61px);
+}
+.febreTifide,
+.mtodosDeTransmisso1 {
+  top: 1188px;
+  left: calc(50% - 152px);
+  width: 319px;
+  height: 30px;
+}
+.febreTifide {
+  top: 897px;
+  left: calc(50% - 107px);
+  width: 226px;
+  height: 38px;
+}
+.causadaPelaBactria1,
+.febreAltaDor {
+  left: calc(50% - 181px);
+  font-size: var(--font-size-base);
+}
+.causadaPelaBactria1 {
+  margin: 0;
+  position: absolute;
+  top: 984px;
+  display: inline-block;
+  width: 375px;
+  height: 62px;
+}
+.febreAltaDor {
+  top: 1102px;
+  width: 377px;
+  height: 79px;
+}
+.febreAltaDor,
+.ingestoDeGua1,
+.tratamento1 {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.ingestoDeGua1 {
+  top: 1228px;
+  left: calc(50% - 175px);
+  font-size: var(--font-size-base);
+  width: 369px;
+  height: 45px;
+}
+.tratamento1 {
+  top: 1405px;
+  left: calc(50% - 94px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 43px;
+}
+.antibiticosComoCiprofloxac,
+.melhoriaDoAbastecimento {
+  margin: 0;
+  position: absolute;
+  top: 1442px;
+  left: calc(50% - 174px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 367px;
+  height: 66px;
+}
+.melhoriaDoAbastecimento {
+  top: 1332px;
+  left: calc(50% - 179px);
+  width: 375px;
+  height: 63px;
+}
+.doenasAgua {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1530px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

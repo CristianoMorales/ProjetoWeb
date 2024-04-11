@@ -1,0 +1,165 @@
+.aidsChild {
+  position: absolute;
+  height: 100%;
+  width: 100.23%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: -0.23%;
+  background-color: var(--color-salmon);
+}
+.aids2 {
+  margin: 0;
+}
+.aids1,
+.causas,
+.mtodosDeTransmisso,
+.sintomas {
+  margin: 0;
+  position: absolute;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.aids1 {
+  top: 55px;
+  left: calc(50% - 122px);
+  font-size: var(--font-size-13xl);
+  width: 255px;
+  height: 57px;
+}
+.causas,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 114px;
+  left: calc(50% - 64px);
+  font-size: inherit;
+  width: 131px;
+  height: 32px;
+}
+.mtodosDeTransmisso,
+.sintomas {
+  top: 248px;
+}
+.mtodosDeTransmisso {
+  top: 373px;
+  left: calc(50% - 131px);
+  width: 290px;
+  height: 34px;
+}
+.aidsItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 55px;
+  left: 31px;
+  width: 47px;
+  height: 36px;
+}
+.aAids,
+.button {
+  font-size: var(--font-size-base);
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 65px;
+  left: 43px;
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+  display: inline-block;
+  width: 24px;
+  height: 16px;
+}
+.aAids {
+  color: var(--color-black);
+}
+.aAidsContainer,
+.osSintomasDa {
+  left: calc(50% - 194px);
+  width: 383px;
+}
+.aAidsContainer {
+  margin: 0;
+  position: absolute;
+  top: 148px;
+  display: inline-block;
+  height: 89px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.osSintomasDa {
+  top: 282px;
+  font-size: var(--font-size-base);
+  height: 91px;
+}
+.medidasPreventivas,
+.oHivPode,
+.osSintomasDa {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.oHivPode {
+  top: 409px;
+  left: calc(50% - 194px);
+  font-size: var(--font-size-base);
+  width: 383px;
+  height: 102px;
+}
+.medidasPreventivas {
+  top: 519px;
+  left: calc(50% - 106px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 239px;
+  height: 42px;
+}
+.usarPreservativosDurante {
+  top: 550px;
+  left: calc(50% - 183px);
+  font-size: var(--font-size-base);
+  width: 372px;
+  height: 95px;
+}
+.oTratamentoDa,
+.tratamento,
+.usarPreservativosDurante {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.tratamento {
+  top: 665px;
+  left: calc(50% - 102px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 24px;
+}
+.oTratamentoDa {
+  top: 715px;
+  left: calc(50% - 194px);
+  font-size: var(--font-size-base);
+  width: 383px;
+  height: 246px;
+}
+.aids {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1016px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

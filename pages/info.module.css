@@ -1,0 +1,84 @@
+.infoChild {
+  position: absolute;
+  height: 101.85%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -1.85%;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.sobreNsTransmisade {
+  display: block;
+}
+.facilidadeDeUsoNavegueFac {
+  margin-bottom: 0;
+}
+.informaesAbrangentesNosso {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.transmisade {
+  display: block;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-kaisei-decol);
+}
+.sobreNsContainer {
+  margin: 0;
+  position: absolute;
+  height: 82.78%;
+  width: 89.49%;
+  top: 13.03%;
+  left: 6.31%;
+  display: inline-block;
+}
+.infoItem {
+  position: absolute;
+  height: 3.89%;
+  width: 10.98%;
+  top: 5.92%;
+  right: 81.54%;
+  bottom: 90.19%;
+  left: 7.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.button,
+.sobreNs {
+  position: absolute;
+  display: inline-block;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 1.73%;
+  width: 5.61%;
+  top: 7.03%;
+  left: 10.05%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+}
+.sobreNs {
+  height: 3.71%;
+  width: 37.15%;
+  top: 6.08%;
+  left: 33.88%;
+  font-size: var(--font-size-13xl);
+}
+.info {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1266px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

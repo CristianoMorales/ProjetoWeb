@@ -1,0 +1,261 @@
+.doenasTropicaisChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.dengue {
+  margin: 0;
+  position: absolute;
+  top: 922px;
+  left: calc(50% - 109px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 226px;
+  height: 29px;
+}
+.medidasPreventivas {
+  top: 621px;
+  left: calc(50% - 123px);
+  font-size: inherit;
+  width: 239px;
+  height: 42px;
+}
+.doenasTropicaisNegligenciad,
+.medidasPreventivas,
+.medidasPreventivas1 {
+  margin: 0;
+  position: absolute;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.medidasPreventivas1 {
+  top: 1482px;
+  left: calc(50% - 115px);
+  font-size: inherit;
+  width: 239px;
+  height: 42px;
+}
+.doenasTropicaisNegligenciad {
+  top: 62px;
+  left: calc(50% - 134px);
+  font-size: var(--font-size-13xl);
+  width: 280px;
+  height: 82px;
+}
+.causas,
+.doenaDeChagas,
+.mtodosDeTransmisso,
+.mtodosDeTransmisso1,
+.sintomas,
+.sintomas1 {
+  margin: 0;
+  position: absolute;
+  top: 224px;
+  left: calc(50% - 65px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.doenaDeChagas,
+.mtodosDeTransmisso,
+.mtodosDeTransmisso1,
+.sintomas,
+.sintomas1 {
+  top: 342px;
+  left: calc(50% - 66px);
+}
+.doenaDeChagas,
+.mtodosDeTransmisso,
+.mtodosDeTransmisso1,
+.sintomas1 {
+  top: 1133px;
+  left: calc(50% - 64px);
+}
+.doenaDeChagas,
+.mtodosDeTransmisso,
+.mtodosDeTransmisso1 {
+  top: 460px;
+  left: calc(50% - 158px);
+  width: 319px;
+  height: 30px;
+}
+.doenaDeChagas,
+.mtodosDeTransmisso1 {
+  top: 1301px;
+  left: calc(50% - 148px);
+}
+.doenaDeChagas {
+  top: 176px;
+  left: calc(50% - 112px);
+  width: 226px;
+  height: 38px;
+}
+.aDengue,
+.almDaPicada,
+.causadaPeloParasita,
+.osSintomasDa,
+.podemIncluirFebre {
+  margin: 0;
+  position: absolute;
+  top: 263px;
+  left: calc(50% - 186px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 375px;
+  height: 62px;
+}
+.aDengue,
+.almDaPicada,
+.osSintomasDa,
+.podemIncluirFebre {
+  top: 381px;
+  height: 69px;
+}
+.aDengue,
+.almDaPicada,
+.osSintomasDa {
+  top: 1175px;
+  left: calc(50% - 188px);
+  width: 377px;
+  height: 109px;
+}
+.aDengue,
+.almDaPicada {
+  top: 507px;
+  left: calc(50% - 180px);
+  width: 369px;
+  height: 97px;
+}
+.aDengue {
+  top: 1348px;
+  height: 117px;
+}
+.tratamento,
+.tratamento1 {
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 43px;
+}
+.tratamento {
+  margin: 0;
+  position: absolute;
+  top: 772px;
+  left: calc(50% - 102px);
+  display: inline-block;
+}
+.tratamento1 {
+  top: 1655px;
+  left: calc(50% - 106px);
+}
+.noHTratamento,
+.oTratamentoGeralmente,
+.tratamento1 {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.oTratamentoGeralmente {
+  top: 815px;
+  left: calc(50% - 180px);
+  font-size: var(--font-size-base);
+  width: 369px;
+  height: 56px;
+}
+.noHTratamento {
+  top: 1698px;
+  height: 192px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.medidasDeControle,
+.noHTratamento,
+.usoDeInseticidas {
+  left: calc(50% - 186px);
+  font-size: var(--font-size-base);
+  width: 375px;
+}
+.usoDeInseticidas {
+  margin: 0;
+  position: absolute;
+  top: 670px;
+  display: inline-block;
+  height: 85px;
+}
+.medidasDeControle {
+  top: 1524px;
+  height: 114px;
+}
+.causadaPeloVrus,
+.causas1,
+.medidasDeControle {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.causas1 {
+  top: 981px;
+  left: calc(50% - 65px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 131px;
+  height: 32px;
+}
+.causadaPeloVrus {
+  top: 1030px;
+  left: calc(50% - 186px);
+  font-size: var(--font-size-base);
+  width: 375px;
+  height: 79px;
+}
+.doenasTropicaisItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 62px;
+  left: 23px;
+  width: 42px;
+  height: 36px;
+}
+.button,
+.doenasTropicais {
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 72px;
+  left: 34px;
+  font-size: var(--font-size-base);
+  color: var(--color-salmon);
+  display: inline-block;
+  width: 21px;
+  height: 16px;
+}
+.doenasTropicais {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1932px;
+  overflow-y: auto;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}

@@ -1,0 +1,152 @@
+.tuberculoseChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.causas,
+.mtodosDeTransmisso,
+.sintomas,
+.tuberculose1 {
+  margin: 0;
+  position: absolute;
+  top: 53px;
+  left: calc(50% - 127px);
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 255px;
+  height: 57px;
+}
+.causas,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 126px;
+  left: calc(50% - 66px);
+  font-size: var(--font-size-5xl);
+  width: 131px;
+  height: 32px;
+}
+.mtodosDeTransmisso,
+.sintomas {
+  top: 253px;
+}
+.mtodosDeTransmisso {
+  top: 361px;
+  left: calc(50% - 159px);
+  width: 319px;
+  height: 30px;
+}
+.tuberculoseItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 53px;
+  left: 26px;
+  width: 42px;
+  height: 36px;
+}
+.button,
+.div {
+  position: absolute;
+  top: 27px;
+  left: 29px;
+  color: var(--color-salmon);
+  display: inline-block;
+  width: 21px;
+  height: 16px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 63px;
+  left: 37px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  text-align: center;
+}
+.aTuberculose,
+.osSintomasIncluem {
+  margin: 0;
+  position: absolute;
+  top: 158px;
+  left: calc(50% - 188px);
+  display: inline-block;
+  width: 375px;
+  height: 83px;
+}
+.osSintomasIncluem {
+  top: 283px;
+  height: 66px;
+}
+.aTuberculose1 {
+  top: 401px;
+  left: calc(50% - 188px);
+  width: 375px;
+  height: 90px;
+}
+.aTuberculose1,
+.medidasPreventivas,
+.tratamento,
+.vacinaoComA {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.medidasPreventivas {
+  top: 503px;
+  left: calc(50% - 120px);
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 239px;
+  height: 42px;
+}
+.tratamento,
+.vacinaoComA {
+  top: 544px;
+  left: calc(50% - 188px);
+  width: 375px;
+  height: 87px;
+}
+.tratamento {
+  top: 665px;
+  left: calc(50% - 102px);
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 24px;
+}
+.oTratamentoDa {
+  display: block;
+}
+.oTratamentoDaContainer {
+  margin: 0;
+  position: absolute;
+  top: 699px;
+  left: calc(50% - 188px);
+  display: inline-block;
+  width: 381px;
+  height: 147px;
+}
+.tuberculose {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 951px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,220 @@
+.hepatiteChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-salmon);
+}
+.causas,
+.hepatite1,
+.mtodosDeTransmisso,
+.sintomas {
+  margin: 0;
+  position: absolute;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.hepatite1 {
+  top: 53px;
+  left: calc(50% - 128px);
+  font-size: var(--font-size-13xl);
+  width: 255px;
+  height: 57px;
+}
+.causas,
+.mtodosDeTransmisso,
+.sintomas {
+  top: 123px;
+  left: calc(50% - 66px);
+  font-size: inherit;
+  width: 131px;
+  height: 32px;
+}
+.mtodosDeTransmisso,
+.sintomas {
+  top: 272px;
+}
+.mtodosDeTransmisso {
+  top: 393px;
+  left: calc(50% - 149px);
+  width: 319px;
+  height: 30px;
+}
+.hepatiteItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 53px;
+  left: 26px;
+  width: 42px;
+  height: 36px;
+}
+.aHepatitePode,
+.aTransmissoVaria,
+.button,
+.osSintomasVariam {
+  position: absolute;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 63px;
+  left: 37px;
+  font-family: var(--font-inter);
+  color: var(--color-salmon);
+  text-align: center;
+  width: 21px;
+  height: 16px;
+}
+.aHepatitePode,
+.aTransmissoVaria,
+.osSintomasVariam {
+  margin: 0;
+  top: 168px;
+  left: calc(50% - 188px);
+  width: 375px;
+  height: 91px;
+}
+.aTransmissoVaria,
+.osSintomasVariam {
+  top: 306px;
+  width: 373px;
+  height: 87px;
+}
+.aTransmissoVaria {
+  top: 434px;
+  width: 375px;
+  height: 102px;
+}
+.medidasPreventivas {
+  top: 544px;
+  left: calc(50% - 120px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 239px;
+  height: 42px;
+}
+.medidasPreventivas,
+.tratamento,
+.vacinaoParaHepatite {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.vacinaoParaHepatite {
+  top: 583px;
+  left: calc(50% - 178px);
+  font-size: var(--font-size-base);
+  width: 365px;
+  height: 114px;
+}
+.tratamento {
+  top: 706px;
+  left: calc(50% - 106px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 212px;
+  height: 43px;
+}
+.oTratamentoDa {
+  display: block;
+}
+.noHTratamentoContainer,
+.oTratamentoDaContainer,
+.paraInfecesAgudasContainer {
+  margin: 0;
+  position: absolute;
+  top: 749px;
+  left: calc(50% - 178px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 363px;
+  height: 106px;
+}
+.noHTratamentoContainer,
+.paraInfecesAgudasContainer {
+  top: 895px;
+  left: calc(50% - 181px);
+  height: 119px;
+}
+.paraInfecesAgudasContainer {
+  top: 1068px;
+  left: calc(50% - 178px);
+  height: 224px;
+}
+.hepatiteA,
+.hepatiteB,
+.hepatiteC {
+  margin: 0;
+  position: absolute;
+  top: 852px;
+  left: calc(50% - 106px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 212px;
+  height: 31px;
+}
+.hepatiteB,
+.hepatiteC {
+  top: 1025px;
+  left: calc(50% - 107px);
+}
+.hepatiteC {
+  top: 1303px;
+}
+.noExistemTratamentosContainer,
+.oTratamentoDaContainer1 {
+  margin: 0;
+  position: absolute;
+  top: 1346px;
+  left: calc(50% - 184px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 363px;
+  height: 265px;
+}
+.noExistemTratamentosContainer {
+  top: 1665px;
+  left: calc(50% - 180px);
+  height: 341px;
+}
+.hepatiteDE {
+  margin: 0;
+}
+.hepatiteDEContainer {
+  margin: 0;
+  position: absolute;
+  top: 1622px;
+  left: calc(50% - 107px);
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 212px;
+  height: 31px;
+}
+.hepatite {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2074px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
