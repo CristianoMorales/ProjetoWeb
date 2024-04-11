@@ -1,10 +1,10 @@
+# TransmiSaúde
 
-  # App doenças
+Para rodar sem node_modules e .next:
+"nmp install"
+"npm run dev"
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+Desenvolvedor: Cristiano Fraissat Morales
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm run dev` to view project in browser
-  
+3.3 Até 2030, acabar com as epidemias de AIDS, tuberculose, malária e doenças tropicais negligenciadas, e combater a hepatite, doenças transmitidas pela água, e outras doenças transmissíveis
+
